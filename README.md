@@ -1,3 +1,7 @@
+## Screenshots
+<img width="633" alt="pagination-project (1)" src="https://user-images.githubusercontent.com/36413759/167071213-7644036e-2672-48e7-8f76-ab34b27e7a5c.png">
+<img width="632" alt="pagination-project (2)" src="https://user-images.githubusercontent.com/36413759/167071219-fe8fb6e6-8f7d-45ed-904f-9f6d6ae56326.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
